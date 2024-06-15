@@ -1,0 +1,23 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #5fa8e0;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+ul{
+    text-align: left;
+    margin-left: 40%;
+}
+
+#taskInput{
+    min-width: 200px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li button {
+    margin-left: 10px;
+}
